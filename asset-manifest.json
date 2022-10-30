@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/formulario-en-react/static/css/main.2cbffa66.css",
-    "main.js": "/formulario-en-react/static/js/main.909ee6ab.js",
-    "index.html": "/formulario-en-react/index.html",
-    "main.2cbffa66.css.map": "/formulario-en-react/static/css/main.2cbffa66.css.map",
-    "main.909ee6ab.js.map": "/formulario-en-react/static/js/main.909ee6ab.js.map"
+    "main.css": "/ActividadUnoReact/static/css/main.2cbffa66.css",
+    "main.js": "/ActividadUnoReact/static/js/main.909ee6ab.js",
+    "index.html": "/ActividadUnoReact/index.html",
+    "main.2cbffa66.css.map": "/ActividadUnoReact/static/css/main.2cbffa66.css.map",
+    "main.909ee6ab.js.map": "/ActividadUnoReact/static/js/main.909ee6ab.js.map"
   },
   "entrypoints": [
     "static/css/main.2cbffa66.css",
